@@ -13,4 +13,13 @@ After running, the code will generate a file named "result.xlsx" in the same dir
 
 ![5221136d-fad4-44f2-8c9c-c478cccab2f8](https://github.com/omp217/ieee-sensor-publication/assets/111455228/b3be012c-b0e5-4e17-b831-9f70e057e678)
 
+Grouping of Goals:
+
+Health: Goal 3
+Smart Cities: Goal 1, 9, 11
+Clean Environment: Goal 6, 7, 14, 15
+Resource-friendly Growth: Goal 2, 8, 11, 12, 13
+Women in Engineering: Goal 5
+Geographic Action: Goal 4, 10
+
 ![group_bar_plot](https://github.com/omp217/ieee-sensor-publication/assets/111455228/3c09406d-e8a3-450a-87a7-b90df0180601)
